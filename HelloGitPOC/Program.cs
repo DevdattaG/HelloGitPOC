@@ -13,6 +13,8 @@ namespace HelloGitPOC
             Console.WriteLine("Hello Team ....");
             Console.WriteLine("Finally we have our own working Git ....");
             Console.WriteLine("Kudos....!!!");
+            myClass m = new myClass(10, 20);
+            Console.ReadKey();
         }
     }
 }

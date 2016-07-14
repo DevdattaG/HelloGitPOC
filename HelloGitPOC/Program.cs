@@ -15,6 +15,7 @@ namespace HelloGitPOC
             Console.WriteLine("Kudos....!!!");
             Console.WriteLine("The solution is : ");
             myClass m = new myClass(10, 20);
+            Console.WriteLine("Done");
             Console.ReadKey();
         }
     }

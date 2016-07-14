@@ -10,6 +10,9 @@ namespace HelloGitPOC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Team ....");
+            Console.WriteLine("Finally we have our own working Git ....");
+            Console.WriteLine("Kudos....!!!");
         }
     }
 }

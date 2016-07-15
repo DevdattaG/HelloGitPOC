@@ -10,11 +10,11 @@ namespace HelloGitPOC
 
         public Class1()
         {
+            
+            Console.WriteLine("From Class 1");
         }
 
-        public int sum() {
-            return 1;
-        }
+        
         
     }
 }

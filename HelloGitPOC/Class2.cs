@@ -17,6 +17,7 @@ namespace HelloGitPOC
         public int helloWorld(int i)
         {
             return i * i;
+        }
 
         public int hellocube(int i)
         {

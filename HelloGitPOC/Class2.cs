@@ -13,5 +13,9 @@ namespace HelloGitPOC
             int sum = a + b;
             Console.WriteLine(sum);
         }
+        public int hellocube(int i)
+        {
+            return i * i * i;
+        }
     }
 }

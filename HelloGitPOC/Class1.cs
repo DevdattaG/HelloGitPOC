@@ -13,6 +13,7 @@ namespace HelloGitPOC
             
             Console.WriteLine("From Class 1");
             Console.WriteLine("");
+            Console.WriteLine("Second ");
         }
 
         
